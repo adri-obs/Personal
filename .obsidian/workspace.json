@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a99797483bdac05b",
+        "id": "ee7a3a19245c54cc",
         "type": "tabs",
         "children": [
           {
-            "id": "5014e354d4895465",
+            "id": "c719ea1848e7b325",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,17 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-11-13.md",
+                "file": "scripts/NuevaNotaDiaria.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-13"
+              "title": "Outline of NuevaNotaDiaria"
             }
           },
           {
-            "id": "443a48c44ae6abde",
+            "id": "492db6bac6fd5c95",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -195,11 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40c201ec7ab92181",
+  "active": "c719ea1848e7b325",
   "lastOpenFiles": [
-    "2025-11-18.md",
-    "To-Do__Nov25.md",
     "scripts/NuevaNotaDiaria.md",
+    "Notas diarias/📅 Octubre-Diciembre 2025/November/2025-11-13.md",
+    "Notas diarias/📅 Octubre-Diciembre 2025/November",
+    "Notas diarias/📅 Octubre-Diciembre 2025",
+    "Notas diarias",
+    "To-Do__Nov25.md",
+    "2025-11-18.md",
     "scripts/To-Do__Nov25.md",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-12.md",
     "scripts",
@@ -228,10 +232,6 @@
     "Dinero 💸/Gastos 📉/Junio~Septiembre 25 📉",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-13.md",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-31.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-01.md",
-    "Notas diarias 📰/Junio~Septiembre 2025📆/Septiembre 25/2025-09-30.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Diciembre 25",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆",
-    "Notas diarias 📰/Junio~Septiembre 2025📆"
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-01.md"
   ]
 }

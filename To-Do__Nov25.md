@@ -8,3 +8,5 @@ tags:
 - [ ] Meter música 
 - [ ] Mod tubo Create , para auto pesca
 - [ ] Quedar Maria , [[2025-11-18]] dineros
+- [ ] Arreglar git-sync
+- [ ] 
