@@ -1,0 +1,14 @@
+**Rutina**
+- **Calentamiento** 5 min
+	- 1 ej *EmpujeSosten1* 
+	- 2 ejs *Empuje1* 
+	- 2 ejs Tirón1 
+	- 1 ej *Abdomen1*  + 1 min plancha
+	- 1 ej *EmpujeSosten2* 
+	- 2 ejs *Empuje2* 
+	- 2 ejs *Tirón2* 
+	- 1 ej *Abdomen2*  + 1min plancha
+- Repetir x 2 ~ 3
+- 1 min entre ejs
+- ==MAX 12 series semanales==
+- Priorizar descanso (dormir) 

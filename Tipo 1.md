@@ -1,0 +1,24 @@
+- [ ] calentamiento (00:00)
+#isometrico
+	- pica mantenida 30 sec
+- #empuje1
+	- flexiones 
+	- flexiones pica
+- #tiron1
+	- D.autralianas
+	- D.explosivas
+- #abdomen1
+	- caminar manos
+	- plancha 1 min
+- #isometrico 
+	- pica mantenida 30 sec
+- #empuje2
+	- flexiones
+	- flexiones palmada
+- #tiron2
+	- D.pecho
+	- D.alta
+- #abdomen2
+	- caminar manos 
+	- plancha 1 min
+#Tipo1 #calistenia 

@@ -1,0 +1,24 @@
+- [ ] calentamiento (00:00)
+#isometrico
+	- pica mantenida 45s
+- #empuje1
+	- Flexiones pica 
+	- Pseudo planche push-up
+- #tiron1
+	- D. agarre amplio
+	- D. Normal
+- #abdomen1
+	- toques hombro
+	- plancha 1 min
+- #isometrico 
+	- pica mantenida 45s
+- #empuje2
+	- Pseudo planche push-up
+	- Flexiones para pec.inferior
+- #tiron2
+	- D. Agarre amplio
+	- D. Normal
+- #abdomen2
+	- toques hombro
+	- plancha 1 min
+#Tipo2 #calistenia 

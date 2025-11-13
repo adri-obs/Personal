@@ -1,0 +1,24 @@
+- [ ] calentamiento (00:00)
+#isometrico
+	- 
+- #empuje1
+	-  
+	- 
+- #tiron1
+	- 
+	- 
+- #abdomen1
+	- 
+	- plancha 1 min
+- #isometrico 
+	- 
+- #empuje2
+	- 
+	- 
+- #tiron2
+	- 
+	- 
+- #abdomen2
+	- 
+	- plancha 1 min
+#Tipo3 #calistenia 

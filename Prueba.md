@@ -1,0 +1,4 @@
+---
+aliases:
+---
+[[Día~Mes📅]] prueba
