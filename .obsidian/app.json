@@ -1,3 +1,25 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:insert-tag",
+    "editor:insert-wikilink",
+    "insert-current-date",
+    "insert-current-time",
+    "editor:undo",
+    "editor:redo",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar",
+    "editor:copy",
+    "editor:cut",
+    "editor:paste",
+    "bases:insert"
+  ]
 }
