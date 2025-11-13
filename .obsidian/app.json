@@ -21,5 +21,6 @@
     "editor:cut",
     "editor:paste",
     "bases:insert"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

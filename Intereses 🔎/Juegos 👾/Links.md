@@ -1,3 +1,1 @@
-Firewatch
-Road 96
 https://vm.tiktok.com/ZNdThtCUn/
