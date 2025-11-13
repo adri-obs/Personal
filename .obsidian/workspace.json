@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "636a083350988b65",
+        "id": "a99797483bdac05b",
         "type": "tabs",
         "children": [
           {
-            "id": "ee994041999a075b",
+            "id": "5014e354d4895465",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Notas diarias 📰/ND--DB 📅.base",
-                "viewName": "Table"
+                "file": "To-Do__Nov25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "ND--DB 📅"
+              "icon": "lucide-file",
+              "title": "To-Do__Nov25"
             }
           }
         ]
@@ -39,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -183,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,9 +195,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee994041999a075b",
+  "active": "40c201ec7ab92181",
   "lastOpenFiles": [
-    "To-Do.md",
+    "2025-11-18.md",
+    "To-Do__Nov25.md",
+    "scripts/NuevaNotaDiaria.md",
+    "scripts/To-Do__Nov25.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-12.md",
+    "scripts",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-06.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-05.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-01.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-10.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-02.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-08.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-09.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-11.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-07.md",
+    "Notas diarias 📰/ND--DB 📅.base",
     "Dinero 💸/Ingresos 📈/Junio~Septiembre 2025 📈/Agosto 25 I.md",
     "Dinero 💸/Ingresos 📈/Junio~Septiembre 2025 📈/Septiembre 25 I.md",
     "Dinero 💸/Ingresos 📈/Octubre~Diciembre 2025 📈/Noviembre 25 I.md",
@@ -214,22 +231,7 @@
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-01.md",
     "Notas diarias 📰/Junio~Septiembre 2025📆/Septiembre 25/2025-09-30.md",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Diciembre 25",
-    "Notas diarias 📰/Junio~Septiembre 2025📆/Septiembre 25/2025-09-01.md",
-    "Notas diarias 📰/Junio~Septiembre 2025📆/Junio 25/2025-06-14.md",
-    "Notas diarias 📰/Junio~Septiembre 2025📆/Agosto 25/2025-08-31.md",
-    "Notas diarias 📰/Junio~Septiembre 2025📆/Agosto 25/2025-08-28.md",
-    "Notas diarias 📰/Junio~Septiembre 2025📆/Agosto 25/2025-08-29.md",
-    "Notas diarias 📰/Junio~Septiembre 2025📆/Agosto 25/2025-08-20.md",
-    "Notas diarias 📰/ND--DB 📅.base",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆",
-    "Notas diarias 📰/Junio~Septiembre 2025📆",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-12.md",
-    "Notas diarias 📰/Junio~Septiembre 2025📆/Septiembre 25",
-    "Intereses 🔎/Juegos 👾/Juegos 3ds --- Links.md",
-    "Intereses 🔎/Actividades/Mangas.md",
-    "Intereses 🔎/Actividades/listActividades 🗒.md",
-    "Intereses 🔎/Actividades/Dibujo--Links.md",
-    "Intereses 🔎/Juegos 👾/listJuegos.md",
-    "Intereses 🔎/Juegos 👾/Links.md"
+    "Notas diarias 📰/Junio~Septiembre 2025📆"
   ]
 }

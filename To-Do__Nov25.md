@@ -6,3 +6,5 @@ tags:
 - [ ]  [[2025-11-13]] Entrega Interfaces T6  ==Domingo==>>>[[2025-11-16]]
 - [ ] Moddear la 3ds
 - [ ] Meter música 
+- [ ] Mod tubo Create , para auto pesca
+- [ ] Quedar Maria , [[2025-11-18]] dineros
