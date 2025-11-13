@@ -11,13 +11,46 @@
             "id": "659565f8e5942e79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dinero 💸/Ingresos 📈/plantillaIngresos 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "plantillaIngresos 1"
+            }
+          },
+          {
+            "id": "59ea454febf88642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicio 💪/Notas ejercicios 🗒.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notas ejercicios 🗒"
+            }
+          },
+          {
+            "id": "9411f4117ff9848f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-13"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,11 +194,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "659565f8e5942e79",
+  "active": "9411f4117ff9848f",
   "lastOpenFiles": [
+    "Intereses 🔎/Actividades/listActividades 🗒.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-12.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-13.md",
+    "2025-11-13.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-11.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-10.md",
+    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25/2025-11-09.md",
+    "Intereses 🔎/Actividades/listaActividades 🗒.md",
+    "Intereses 🔎/🎵 INDEX 🎵.md",
+    "To-Do.md",
+    "Ejercicio 💪/Notas ejercicios 🗒.md",
+    "Dinero 💸/Ingresos 📈/plantillaIngresos 1.md",
+    "Dinero 💸/Gastos 📉/plantillaGastos.md",
+    "Dinero 💸/Ingresos 📈/Junio~Septiembre 2025 📈/Agosto 25 I.md",
+    "Dinero 💸/Gastos 📉/Octubre~Diciembre 2025 📉/Noviembre 25 G.md",
+    "Dinero 💸/Gastos 📉/Junio~Septiembre 25 📉/Agosto 25 G.md",
+    "Notas diarias 📰/plantillaDiaria.md",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-31.md",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-30.md",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-29.md",
@@ -175,23 +226,6 @@
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-24.md",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-23.md",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-22.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-21.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-20.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-19.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-18.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-17.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-16.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-15.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-14.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-13.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-12.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-11.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-09.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-08.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-07.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-06.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-05.md",
-    "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25/2025-10-04.md",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Octubre 25",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25",
     "Notas diarias 📰/Octubre~Diciembre 2025 📆",
