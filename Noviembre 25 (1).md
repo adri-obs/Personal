@@ -15,4 +15,4 @@
 - #comida 20'02€
 - #bizumCumple 5€
 [[2025-11-13]]
-- #
+- #comida ~3€
