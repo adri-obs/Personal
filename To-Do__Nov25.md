@@ -9,4 +9,6 @@ tags:
 - [ ] Mod tubo Create , para auto pesca
 - [ ] Quedar Maria , [[2025-11-18]] dineros
 - [ ] Arreglar git-sync
+- [ ] [[2025-11-14]] llega disfraz capybara
+- [ ] Buscar Pokemon UltraSol (aldea)
 - [ ] 
