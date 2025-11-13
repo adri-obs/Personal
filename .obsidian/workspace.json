@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dinero 💸/Ingresos 📈/Junio~Septiembre 2025 📈/Agosto 25 I.md",
+                "file": "To-Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agosto 25 I"
+              "title": "To-Do"
             }
           }
         ]
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40c201ec7ab92181",
+  "active": "ee994041999a075b",
   "lastOpenFiles": [
+    "Dinero 💸/Ingresos 📈/Junio~Septiembre 2025 📈/Agosto 25 I.md",
     "Dinero 💸/Ingresos 📈/Junio~Septiembre 2025 📈/Septiembre 25 I.md",
     "Dinero 💸/Ingresos 📈/Octubre~Diciembre 2025 📈/Noviembre 25 I.md",
     "Dinero 💸/Gastos 📉/Junio~Septiembre 25 📉/Agosto 25 G.md",
@@ -230,7 +231,6 @@
     "Intereses 🔎/Actividades/Dibujo--Links.md",
     "Intereses 🔎/Juegos 👾/listJuegos.md",
     "Intereses 🔎/Juegos 👾/Links.md",
-    "Ejercicio 💪/Notas ejercicios 🗒.md",
-    "Dinero 💸/Por comprar 💭.md"
+    "Ejercicio 💪/Notas ejercicios 🗒.md"
   ]
 }
