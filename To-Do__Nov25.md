@@ -10,6 +10,6 @@ tags:
 - [ ] Arreglar git-sync
 - [ ] [[2025-11-14]] llega disfraz capybara
 - [ ] Buscar Pokemon UltraSol (aldea)
-- [ ] [[2025-11-20]] Entrega #IPE -- Modelo Canva y resumen ejecutivo
+- [ ] [[2025-11-18]] Entrega #IPE -- Modelo Canva y resumen ejecutivo
 - [ ] [[2025-11-20]] Entrega #DWES -- Sprint 4 Django
 - [ ] [[2025-11-16]] Entrega Interfaces T6  ==Domingo== 
