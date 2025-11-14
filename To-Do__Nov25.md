@@ -13,3 +13,4 @@ tags:
 - [ ] [[2025-11-18]] Entrega #IPE -- Modelo Canva y resumen ejecutivo
 - [ ] [[2025-11-20]] Entrega #DWES -- Sprint 4 Django
 - [ ] [[2025-11-16]] Entrega Interfaces T6  ==Domingo== 
+- [ ] carcasa 3ds
