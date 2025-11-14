@@ -3,12 +3,13 @@ tags:
   - mp3
   - 3ds
 ---
-- [ ]  [[2025-11-13]] Entrega Interfaces T6  ==Domingo==>>>[[2025-11-16]]
 - [ ] Moddear la 3ds
-- [ ] Meter música 
+- [ ] Meter toda la música 
 - [ ] Mod tubo Create , para auto pesca
 - [ ] Quedar Maria , [[2025-11-18]] dineros
 - [ ] Arreglar git-sync
 - [ ] [[2025-11-14]] llega disfraz capybara
 - [ ] Buscar Pokemon UltraSol (aldea)
-- [ ] 
+- [ ] [[2025-11-20]] Entrega #IPE -- Modelo Canva y resumen ejecutivo
+- [ ] [[2025-11-20]] Entrega #DWES -- Sprint 4 Django
+- [ ] [[2025-11-16]] Entrega Interfaces T6  ==Domingo== 

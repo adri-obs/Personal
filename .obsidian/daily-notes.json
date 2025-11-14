@@ -1,3 +1,6 @@
 {
-  "autorun": false
+  "autorun": true,
+  "folder": "Notas diarias 📰/Octubre~Diciembre 2025 📆/Noviembre 25",
+  "template": "Notas diarias 📰/plantillaDiaria",
+  "format": "DD-MM-Y"
 }
